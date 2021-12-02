@@ -4,7 +4,7 @@ Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqu
 
 # Aulas
 ## Análises preliminares
-~>
+~> [analises_preliminares.ipynb](https://github.com/brunodleite/alura_reg_linear/blob/main/analises_preliminares.ipynb)
 ## Comportamento da variável dependente
 ->
 ## Variável dependente Vs Variáveis explicativas
