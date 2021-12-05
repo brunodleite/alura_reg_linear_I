@@ -12,8 +12,8 @@ Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqu
 ## Datasets de treino e teste
 -> [ds_treino_teste.ipynb](https://github.com/brunodleite/alura_reg_linear/blob/main/ds_treino_teste.ipynb)
 ## Comparando modelos
-->
+-> [comparando_modelos.ipynb](https://github.com/brunodleite/alura_reg_linear/blob/main/comparando_modelos.ipynb)
 ## Salvando e carregando modelo
 ->
 ## Novo Projeto
-->
+-> 
