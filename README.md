@@ -14,6 +14,8 @@ Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqu
 ## Comparando modelos
 -> [comparando_modelos.ipynb](https://github.com/brunodleite/alura_reg_linear/blob/main/comparando_modelos.ipynb)
 ## Salvando e carregando modelo
-->
+-> [salvando_carregando_modelo.ipynb](https://github.com/brunodleite/alura_reg_linear/blob/main/salvando_carregando_modelo.ipynb)
+## Testando o modelo Consumo
+-> [testando_modelo_consumo.ipynb](https://github.com/brunodleite/alura_reg_linear/blob/main/testando_modelo_consumo.ipynb)
 ## Novo Projeto
 -> 
