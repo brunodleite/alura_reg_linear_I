@@ -2,9 +2,9 @@
 
 Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqui estão dispostos os notebooks e explicações dos passos realizados durante o aprendizado.
 
-# Aulas
 # Projeto Completo: [projeto_regressao_linear_I.ipynb](https://github.com/brunodleite/alura_reg_linear_I/blob/main/projeto_regressao_linear_I.ipynb)
 
+# Aulas
 ### Análises preliminares
 ~> [analises_preliminares.ipynb](https://github.com/brunodleite/alura_reg_linear/blob/main/analises_preliminares.ipynb)
 ### Comportamento da variável dependente
