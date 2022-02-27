@@ -22,9 +22,9 @@ Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqu
 
 # Após finalizar o curso, minhas habilidades adquiridas foram:
 
-~> Utilizar visualizações para entender a distribuição de seus dados
+~> Utilizar visualizações para entender a distribuição dos dados
 
-~> Descubrir a diferença entre variáveis dependentes e explicativas em seus dados
+~> Descubrir a diferença entre variáveis dependentes e explicativas nos dados
 
 ~> Aprender a separar dados de treino e teste
 
