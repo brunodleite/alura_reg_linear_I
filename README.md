@@ -20,3 +20,16 @@ Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqu
 ### Testando o modelo Consumo
 -> [testando_modelo_consumo.ipynb](https://github.com/brunodleite/alura_reg_linear/blob/main/testando_modelo_consumo.ipynb)
 
+# Habilidade após finalizar o curso:
+
+~> Utilizar visualizações para entender a distribuição de seus dados
+
+~> Descubrir a diferença entre variáveis dependentes e explicativas em seus dados
+
+~> Aprender a separar dados de treino e teste
+
+~> Modelar com regressões lineares
+
+~> Entender os erros em função dos resíduos e métricas
+
+~> Comparar e salve os melhores modelos
