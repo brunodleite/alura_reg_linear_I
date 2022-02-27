@@ -20,7 +20,7 @@ Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqu
 ### Testando o modelo Consumo
 -> [testando_modelo_consumo.ipynb](https://github.com/brunodleite/alura_reg_linear/blob/main/testando_modelo_consumo.ipynb)
 
-# Habilidade após finalizar o curso:
+# Após finalizar o curso, minhas habilidades adquiridas foram:
 
 ~> Utilizar visualizações para entender a distribuição de seus dados
 
